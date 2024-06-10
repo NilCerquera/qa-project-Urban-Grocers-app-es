@@ -22,7 +22,7 @@ def test_create_kit_name_only_char():
 # prueba 2
 
 
-def test_create_kit_511_name():cd 
+def test_create_kit_511_name():
     kit_body_three = data.five_hundred_eleven_letters
     positive_assert(kit_body_three)
 # prueba 3
